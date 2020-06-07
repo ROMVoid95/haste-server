@@ -1,0 +1,17 @@
+{
+	"name": "Hastebin++",
+	"description": "Hastebin++ is a customized haste-server applet",
+	"repository": "https://github.com/ROMVoid95/haste-server",
+	"logo": "https://raw.githubusercontent.com/ROMVoid95/haste-server/master/static/favicon.png",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+    "mccrash",
+    "crash-log",
+		"code",
+		"syntax highlighting"
+	]
+}
